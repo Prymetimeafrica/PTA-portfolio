@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <meta charset="utf-8">
+        <title>lesson html</title>
+        <style>
+            .first{
+                color: blue;
+            }
+            body{
+                background-color:cadetblue;
+            }
+            
+            
+        </style>
+    </head>
+    <body>
+        <h1 style="color:brown;">THIS IS MY ONE</h1>
+        <p class="first">if you want to have this tpye of work click below</p>
+        <button>
+            <a href="https://www.google.com">search</a>
+        </button><br>
+        <pre>
+            OH yee beliver...
+            you ought to know 
+            how to act around 
+            me and my <b><em style="color: green;">kins
+            </em>
+            </b> 
+        </pre>
+        <hr>
+        <h2>THIS IS SECOND</h2>
+        <p class="first">
+            we should know that as of <strong>now</strong> we can only <br>
+            <span style="color: deeppink;">fight.</span>
+         </p>
+         <a href="Desktop/Screen Shot 2023-05-14 at 5.15.20 AM.png"
+            title="floating99"
+            alt="work"
+            mailto="emma99@yahoo.com"
+            >FACEBOOK</a>
+            <br>
+             <img src="Desktop/Screen Shot 2023-05-14 at 5.15.20 AM.png" width="250" height="300">
+        <hr>
+        <a href="Documents/lesson2"><h3 
+         title="the third header" style="color: blue;">
+            we are not used to this
+            </h3>
+            </a>
+        <span class="first">
+            we can both say , it is safe to say that i have understood this html codes <br>
+            and i would love to move to the next level
+        </span>
+        <div class="first">
+            <ul>
+                <li>food</li>
+                <li>drinks</li>
+            </ul>
+            <ol>
+                <li>rice</li>
+                <li>small stout</li>
+            </ol>
+        </div>
+        <hr>
+        <a
+        href="mailto:emmanuel@gmail.com"
+        title="our email"
+        >emailus
+    </a>
+    </body>
+</html>

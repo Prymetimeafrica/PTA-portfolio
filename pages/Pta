@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>contact</title>
+</head>
+<body>
+    <h1>My contact details</h1><hr>
+<p>
+    <pre>
+        Address: lokogoma Abuja, Ng.
+        Phone: 2348167670481
+        Email: <a href="mailto:pryme.time@aol.com" > prymetime</a>
+    </pre>
+</p><hr>
+
+</body>
+</html>
